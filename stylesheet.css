@@ -1,7 +1,18 @@
+
 h1{
     font-family: 'Times New Roman', Times, serif;
+    color: #F87060;
 }
-p{
-    color: blueviolet;
+
+p { color:#42F2F7
+
 }
 p{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+h2{color: #DA7422;}
+
+body {
+    background-image: url(https://astronomy.com/-/media/Images/Beehive.jpg);
+    background-position: 0%;
+    background-attachment: fixed;
+}
